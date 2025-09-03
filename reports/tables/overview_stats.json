@@ -1,0 +1,17 @@
+{
+    "rows": 3066766.0,
+    "columns": 19.0,
+    "memory": 588.462,
+    "bytes_per_row": 201.205,
+    "pct_row_with_any_missing": 2.339,
+    "Number_of_negative_duration": 1121.0,
+    "pct_of_negative_duration": 0.037,
+    "distance_cap_miles": 50.0,
+    "n_over_cap": 387.0,
+    "pct_over_cap": 0.013,
+    "n_le_0distance": 45862.0,
+    "pct_le_0distance": 1.495,
+    "fare_missmatch": 1089301.0,
+    "pct_fare_missmatch": 35.52,
+    "n_total_nonpos": 924885.0
+}
