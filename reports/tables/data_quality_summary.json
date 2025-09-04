@@ -1,0 +1,38 @@
+{
+    "rows": 3066766,
+    "cols": 19,
+    "pct_rows_with_any_missing": 2.3,
+    "duplicates_count": 0,
+    "duplicates_pct": 0.0,
+    "all_missing_cols_count": 0,
+    "constant_cols_count": 0,
+    "has_infinite_cols_count": 0,
+    "top_missing": [
+        [
+            "RatecodeID",
+            2.339
+        ],
+        [
+            "airport_fee",
+            2.339
+        ],
+        [
+            "congestion_surcharge",
+            2.339
+        ],
+        [
+            "passenger_count",
+            2.339
+        ],
+        [
+            "store_and_fwd_flag",
+            2.339
+        ]
+    ],
+    "type_probe_counts": {
+        "numeric": 0,
+        "datetime": 0,
+        "category": 1,
+        "free_text": 0
+    }
+}
