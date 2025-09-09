@@ -1,0 +1,12 @@
+{
+  "policies": {
+    "trip_distance": {
+      "method": "logIQR_k1.5",
+      "lower_fence": 0.0,
+      "upper_fence": 12.195289117208858,
+      "action": "flag_only",
+      "notes": "Linear IQR too strict; z-score too wide. Log-IQR balances tail.",
+      "computed_on": "2023-01"
+    }
+  }
+}
